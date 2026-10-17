@@ -43,7 +43,7 @@ The city is dark, the network is down, and the underground is trying to restore 
 
 ## Run locally
 
-Double-click `neon-relay.html` or serve the folder with any local static file server, for example:
+**Double-click `neon-relay.html` ** or serve the folder with any local static file server, for example:
 
 ```bash
 python -m http.server 8000
